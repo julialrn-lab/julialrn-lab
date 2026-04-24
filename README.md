@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, world! I'm Julia Neves 👋
 
-<!--
-**julialrn-lab/julialrn-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc in Materials Science and Technology and former Mathematics and Science teacher, currently transitioning into **Data Science**. 
 
-Here are some ideas to get you started:
+My career has been built on the rigor of the scientific method and logical reasoning—skills I now apply to my studies in Information Technology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Focus
+- 🐍 **Python** for data analysis (Pandas)
+- 📊 **SQL** for database management
+- 📉 **Applied Statistics**
+
+I am looking for opportunities to bridge my analytical background with technology to transform data into real-world solutions.
+
+---
+**Find me on:**
+[LinkedIn](SEU_LINK_AQUI) | [Portfolio](SEU_LINK_AQUI)
