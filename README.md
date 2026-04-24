@@ -13,4 +13,4 @@ I am looking for opportunities to bridge my analytical background with technolog
 
 ---
 **Find me on:**
-[LinkedIn](https://www.linkedin.com/in/juliarodrigues1811) | [Portfolio](SEU_LINK_AQUI)
+[LinkedIn](https://www.linkedin.com/in/juliarodrigues1811) | [Portfolio]([SEU_LINK_AQUI](https://github.com/julialrn-lab)
