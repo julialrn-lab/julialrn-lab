@@ -7,7 +7,7 @@ My career has been built on the rigor of the scientific method and logical reaso
 ### 🛠 Technical Focus
 - 🐍 **Python** for data analysis (Pandas)
 - 📊 **SQL** for database management
-- 📉 **Applied Statistics**
+- 📜 **JavaScript** for logic and web fundamentals
 
 I am looking for opportunities to bridge my analytical background with technology to transform data into real-world solutions.
 
