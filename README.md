@@ -1,16 +1,22 @@
-# Hello, world! I'm Julia Neves 👋
+# Hi, I'm Julia 👋
 
-MSc in Materials Science and Technology and former Mathematics and Science teacher, currently transitioning into **Data Science**. 
+MSc in Materials Science and Technology (POSMAT/UNESP), working at the
+intersection of **organic chemistry, optical chemosensors and data analysis**.
 
-My career has been built on the rigor of the scientific method and logical reasoning—skills I now apply to my studies in Information Technology. 
+## 🔬 Research interests
+- Synthesis of quinoline derivatives by multicomponent reactions
+- Colorimetric and fluorescent chemosensors for metal ions and pH
+- Python for spectroscopic data and sensor arrays (PCA, pattern recognition)
 
-### 🛠 Technical Focus
-- 🐍 **Python** for data analysis (Pandas)
-- 📊 **SQL** for database management
-- 📜 **JavaScript** for logic and web fundamentals
+## 🛠️ Tools
+- **Python** (pandas, Matplotlib, scikit-learn) applied to spectroscopy data
+- **SQL** and **JavaScript**
+- UV-Vis and fluorescence spectroscopy, NMR, FTIR
 
-I am looking for opportunities to bridge my analytical background with technology to transform data into real-world solutions.
+## 📄 Publications
+- dos Santos, G. C.; **Rodrigues, J. L.**; Moreno, V. F.; da Silva-Filho, L. C.
+  Environmental effects in nitroquinoline derivatives solutions: solvatochromism, acid-base effect and ion-sensor investigation. *J. Mol. Struct.* 2021, 1235, 130260.
+  [DOI](https://doi.org/10.1016/j.molstruc.2021.130260)
 
----
-**Find me on:**
+**Find me on:** 
 [LinkedIn](https://www.linkedin.com/in/juliarodrigues1811) | [Portfolio][GitHub Projects](https://github.com/julialrn-lab)
