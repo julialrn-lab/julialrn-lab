@@ -10,7 +10,7 @@ intersection of **organic chemistry, optical chemosensors and data analysis**.
 
 ## 🛠️ Tools
 - **Python** (pandas, Matplotlib, scikit-learn) applied to spectroscopy data
-- **SQL** and **JavaScript**
+- **SQL** 
 - UV-Vis and fluorescence spectroscopy, NMR, FTIR
 
 ## 📄 Publications
@@ -19,4 +19,5 @@ intersection of **organic chemistry, optical chemosensors and data analysis**.
   [DOI](https://doi.org/10.1016/j.molstruc.2021.130260)
 
 **Find me on:** 
-[LinkedIn](https://www.linkedin.com/in/juliarodrigues1811) | [Portfolio][GitHub Projects](https://github.com/julialrn-lab)
+[LinkedIn](https://www.linkedin.com/in/juliarodrigues1811) | [Portfolio][GitHub Projects](https://github.com/julialrn-lab) | [Lattes] ( https://lattes.cnpq.br/7814225227716730) 
+
