@@ -19,5 +19,7 @@ intersection of **organic chemistry, optical chemosensors and data analysis**.
   [DOI](https://doi.org/10.1016/j.molstruc.2021.130260)
 
 **Find me on:** 
-[LinkedIn](https://www.linkedin.com/in/juliarodrigues1811) | [Portfolio][GitHub Projects](https://github.com/julialrn-lab) | [Lattes] ( https://lattes.cnpq.br/7814225227716730) 
+[LinkedIn](https://www.linkedin.com/in/juliarodrigues1811)
+[Portfolio][GitHub Projects](https://github.com/julialrn-lab)
+[Lattes] ( https://lattes.cnpq.br/7814225227716730) 
 
