@@ -1,4 +1,4 @@
-# Hi, I'm Julia 👋
+# Hi, World! I'm Julia 👋
 
 MSc in Materials Science and Technology (POSMAT/UNESP), working at the
 intersection of **organic chemistry, optical chemosensors and data analysis**.
